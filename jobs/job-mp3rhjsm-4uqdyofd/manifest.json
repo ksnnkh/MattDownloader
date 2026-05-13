@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp3rhjsm-4uqdyofd",
+  "source_url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.23/mhrv-rs-windows-amd64.zip",
+  "created_at_utc": "2026-05-13T07:52:29Z",
+  "mode": "single",
+  "total_size_bytes": 7865120,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp3rhjsm-4uqdyofd/file.bin",
+  "chunks_path_prefix": "jobs/job-mp3rhjsm-4uqdyofd/chunks/chunk_",
+  "suggested_filename": "mhrv-rs-windows-amd64.zip"
+}
